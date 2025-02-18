@@ -1,6 +1,7 @@
 #Original code taken from
-#
-#Author:
+#https://medium.com/thoughts-on-machine-learning/building-knowledge-graphs-with-spacy-networkx-and-matplotlib-a-glimpse-into-semantic-role-e49c9dbe26b4
+#Author:FS Ndzomga
+#CHANGLOG: Added query of "say" and verb communication to return instances of say
 import spacy
 import networkx as nx
 import matplotlib.pyplot as plt
